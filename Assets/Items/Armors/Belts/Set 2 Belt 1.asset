@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bebab6c91adc32b45a264cc15534a91b, type: 3}
+  m_Name: Set 2 Belt 1
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  id: 77
+  itemName: Barbarian Belt (Gray)
+  description: Piece of Barbarian Armor Set (Gray)
+  prefab: {fileID: 6559769456659838528, guid: 60210a053ff728e4dabd35709d639a4b, type: 3}
+  sizeX: 2
+  sizeY: 1
+  icon: {fileID: 0}
+  tipoEquipo: 8
+  rarezaEquipo: 0
+  "Da\xF1o": 0
+  Armadura: 0
+  durabilidad: 0
+  currentDurability: 0
+  equipable: 1
+  quantity: 1

@@ -1,0 +1,302 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-8976496329513677055
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player Dead-04_{-8976496329513677055}
+  m_AudioClip: {fileID: 8300000, guid: acea3191cbd1a794aa54e1de8eebc5f9, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-8800977040942653985
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player Dead-01_{-8800977040942653985}
+  m_AudioClip: {fileID: 8300000, guid: eef7409e7a8484947aab60198499b0c8, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-7335225524117730106
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player Dead-23_{-7335225524117730106}
+  m_AudioClip: {fileID: 8300000, guid: 0ed30b40523a53e488bfee903f8d0461, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-7244817507916939118
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player Dead-16_{-7244817507916939118}
+  m_AudioClip: {fileID: 8300000, guid: fdf1ed16e54af4c4a8610610f2e63848, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-5594525161671422772
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player Dead-20_{-5594525161671422772}
+  m_AudioClip: {fileID: 8300000, guid: b73ab6cd5b5bdbb429982f90b9972f6f, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-5281109230641507540
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player Dead-11_{-5281109230641507540}
+  m_AudioClip: {fileID: 8300000, guid: ed58b49055acce342b4ffbdc973f54b4, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-4741670374054819439
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player Dead-02_{-4741670374054819439}
+  m_AudioClip: {fileID: 8300000, guid: 9b0a5d4492f84134d98d81b719d35263, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-3500432686592163187
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player Dead-13_{-3500432686592163187}
+  m_AudioClip: {fileID: 8300000, guid: 48e4b3a76ec046043b9e19b278a4b0f5, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-2427188885656655492
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player Dead-10_{-2427188885656655492}
+  m_AudioClip: {fileID: 8300000, guid: c2f12c8f65642f04c821e17605712591, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-2388055008567181581
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player Dead-06_{-2388055008567181581}
+  m_AudioClip: {fileID: 8300000, guid: aa94813ba0269964cb80b23c91a6ba2c, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-1859551979121194686
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player Dead-08_{-1859551979121194686}
+  m_AudioClip: {fileID: 8300000, guid: e42a0ca570a65dd40839ee75f0d67589, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-409245293512870609
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player Dead-17_{-409245293512870609}
+  m_AudioClip: {fileID: 8300000, guid: 37c63dbc08983c4488fb1ad1a9446dd1, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &276516329164288310
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player Dead-15_{276516329164288310}
+  m_AudioClip: {fileID: 8300000, guid: 1c6f59d3a80f96a4db43672005829098, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &2147743256272520870
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player Dead-25_{2147743256272520870}
+  m_AudioClip: {fileID: 8300000, guid: 7385dcec781be2b47bf104f1c0ade5ee, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &2180984828515828752
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player Dead-24_{2180984828515828752}
+  m_AudioClip: {fileID: 8300000, guid: a9c1d7343b905c349adae48653a4bcae, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &2848137072687504911
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player Dead-14_{2848137072687504911}
+  m_AudioClip: {fileID: 8300000, guid: e2f7ed07a1d90204f913ef39065375fe, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &4208669129905258047
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player Dead-07_{4208669129905258047}
+  m_AudioClip: {fileID: 8300000, guid: 119b3ae897d89eb4193b562c93bddbaf, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &4589902493461891783
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player Dead-03_{4589902493461891783}
+  m_AudioClip: {fileID: 8300000, guid: c49bbb9e429ef4b429057dcf61b8e273, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &5585537038168255316
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player Dead-18_{5585537038168255316}
+  m_AudioClip: {fileID: 8300000, guid: 89fc973005ec2ea4eba7a00a750c644b, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerDead
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: 0, y: 0}
+  m_PitchRandomizationRange: {x: 0, y: 0}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: -8800977040942653985}
+  - {fileID: -4741670374054819439}
+  - {fileID: 4589902493461891783}
+  - {fileID: -8976496329513677055}
+  - {fileID: 6582268099840142434}
+  - {fileID: -2388055008567181581}
+  - {fileID: 4208669129905258047}
+  - {fileID: -1859551979121194686}
+  - {fileID: 7535209919454337370}
+  - {fileID: -2427188885656655492}
+  - {fileID: -5281109230641507540}
+  - {fileID: 6471511268415000346}
+  - {fileID: -3500432686592163187}
+  - {fileID: 2848137072687504911}
+  - {fileID: 276516329164288310}
+  - {fileID: -7244817507916939118}
+  - {fileID: -409245293512870609}
+  - {fileID: 5585537038168255316}
+  - {fileID: 7251320066077148524}
+  - {fileID: -5594525161671422772}
+  - {fileID: 8597487655499725511}
+  - {fileID: 7479335505294935216}
+  - {fileID: -7335225524117730106}
+  - {fileID: 2180984828515828752}
+  - {fileID: 2147743256272520870}
+  m_AvoidRepeatingLast: 15
+  m_PlaybackMode: 2
+  m_TriggerMode: 1
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 1
+  m_VolumeRandomizationEnabled: 0
+  m_PitchRandomizationEnabled: 0
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0
+--- !u!1233149941 &6471511268415000346
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player Dead-12_{6471511268415000346}
+  m_AudioClip: {fileID: 8300000, guid: 2e480fe94780e0a42b22a821fbc07240, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &6582268099840142434
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player Dead-05_{6582268099840142434}
+  m_AudioClip: {fileID: 8300000, guid: 2862d809101d3404dbbcc442b0ea67c9, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &7251320066077148524
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player Dead-19_{7251320066077148524}
+  m_AudioClip: {fileID: 8300000, guid: 0c490c4a4ae23e94cadaf64e33624ac7, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &7479335505294935216
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player Dead-22_{7479335505294935216}
+  m_AudioClip: {fileID: 8300000, guid: 81d12b0431ed94246be81dde460b2a56, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &7535209919454337370
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player Dead-09_{7535209919454337370}
+  m_AudioClip: {fileID: 8300000, guid: d2245b5b3eb46e5428688e8dca2b80d8, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &8597487655499725511
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player Dead-21_{8597487655499725511}
+  m_AudioClip: {fileID: 8300000, guid: e65111c964860b24d861038e0cbd7126, type: 3}
+  m_Volume: 0
+  m_Enabled: 1

@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-6521353209405970325
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: step7_{-6521353209405970325}
+  m_AudioClip: {fileID: 8300000, guid: 6f5f5f6f0847ae541946c844bce36b8e, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-3275273537895440988
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: step6_{-3275273537895440988}
+  m_AudioClip: {fileID: 8300000, guid: 790c7e2510d74cb4a849f5b9b44952c5, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-1685473258669798724
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: steps10_{-1685473258669798724}
+  m_AudioClip: {fileID: 8300000, guid: 0e28d91bb75555e44b057eb3f95e4080, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-1551778022935836561
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: steps5_{-1551778022935836561}
+  m_AudioClip: {fileID: 8300000, guid: c9cf40c03c5bb03429d55ea5bd311cc6, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-1069029200588063038
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: steps8_{-1069029200588063038}
+  m_AudioClip: {fileID: 8300000, guid: 0159dff5c3f52b945b48df9f6e67c6ae, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-376589522583831350
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: steps4_{-376589522583831350}
+  m_AudioClip: {fileID: 8300000, guid: d8390a4b7ace829448dac6ead8613f3c, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &72284469198499034
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Steps3_{72284469198499034}
+  m_AudioClip: {fileID: 8300000, guid: 1712f2d5cfc684c45a3b33069f386586, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &3439641952858080873
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: steps9_{3439641952858080873}
+  m_AudioClip: {fileID: 8300000, guid: 1ab794c68772e3e4fb1baaa8d2025ee6, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: StepsSoundRandomized
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: -20, y: 20}
+  m_PitchRandomizationRange: {x: -20, y: 20}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 5}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: 8609207671062402876}
+  - {fileID: 6890567578772821742}
+  - {fileID: 72284469198499034}
+  - {fileID: -376589522583831350}
+  - {fileID: -1551778022935836561}
+  - {fileID: -3275273537895440988}
+  - {fileID: -6521353209405970325}
+  - {fileID: -1069029200588063038}
+  - {fileID: 3439641952858080873}
+  - {fileID: -1685473258669798724}
+  m_AvoidRepeatingLast: 5
+  m_PlaybackMode: 2
+  m_TriggerMode: 1
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 0
+  m_VolumeRandomizationEnabled: 1
+  m_PitchRandomizationEnabled: 1
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0
+--- !u!1233149941 &6890567578772821742
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: steps2_{6890567578772821742}
+  m_AudioClip: {fileID: 8300000, guid: ce52fa94496c6c3428d5e678c93bef6c, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &8609207671062402876
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: steps1_{8609207671062402876}
+  m_AudioClip: {fileID: 8300000, guid: de15cb3e5ddf3b14a975cdb810e3262d, type: 3}
+  m_Volume: 0
+  m_Enabled: 1

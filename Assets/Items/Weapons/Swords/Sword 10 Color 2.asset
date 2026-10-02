@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bebab6c91adc32b45a264cc15534a91b, type: 3}
+  m_Name: Sword 10 Color 2
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  id: 165
+  itemName: Prehistoric Sword (Brown)
+  description: Prehistoric Sword of Color Brown
+  prefab: {fileID: 6624769519930250462, guid: 05740614a59743c43b71b23478ad000f, type: 3}
+  sizeX: 1
+  sizeY: 2
+  icon: {fileID: 0}
+  tipoEquipo: 0
+  rarezaEquipo: 0
+  "Da\xF1o": 0
+  Armadura: 0
+  durabilidad: 0
+  equipable: 1

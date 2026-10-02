@@ -1,0 +1,478 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-9164841568332136988
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-12_{-9164841568332136988}
+  m_AudioClip: {fileID: 8300000, guid: e9b9caf00c11f58439c520db23fcc607, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-9110664362959465957
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-26_{-9110664362959465957}
+  m_AudioClip: {fileID: 8300000, guid: aac3e8066c453e141be6cc026124e7b0, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-8071493848866807668
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-35_{-8071493848866807668}
+  m_AudioClip: {fileID: 8300000, guid: 98f2aa79f642b5e4d9638e0422acbd3d, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-8047967972486664004
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-29_{-8047967972486664004}
+  m_AudioClip: {fileID: 8300000, guid: ce937f5143f65fd4c88083fca9151d3a, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-7259254992524083171
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-41_{-7259254992524083171}
+  m_AudioClip: {fileID: 8300000, guid: b618138c877820846827624b4e0629e6, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-6637061599045714285
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-04_{-6637061599045714285}
+  m_AudioClip: {fileID: 8300000, guid: ec0c928cd1b951e4f9171b151f611cbc, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-6558245938490473529
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-24_{-6558245938490473529}
+  m_AudioClip: {fileID: 8300000, guid: 7059d21f20d807846a2dacf25464695d, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-6075457440927180920
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-16_{-6075457440927180920}
+  m_AudioClip: {fileID: 8300000, guid: fe00ee1a269561345b7f1d1527f4a032, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-4496753807358755949
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-36_{-4496753807358755949}
+  m_AudioClip: {fileID: 8300000, guid: 4bfcf666eb759384f90b2f3253fee1b3, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-4464831731864473165
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-33_{-4464831731864473165}
+  m_AudioClip: {fileID: 8300000, guid: 04cc14f05d5b6ad47be597965d1106c0, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-4149397391732622033
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-08_{-4149397391732622033}
+  m_AudioClip: {fileID: 8300000, guid: a5823c1276281884a869caa28ded2762, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-4047037781133718382
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-18_{-4047037781133718382}
+  m_AudioClip: {fileID: 8300000, guid: 1df938a920970a64f82767603d8faabb, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-3763346442677901873
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-09_{-3763346442677901873}
+  m_AudioClip: {fileID: 8300000, guid: 08d01f1b220ed5744b4ba77c7cab8b1c, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-3242662250290049211
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-22_{-3242662250290049211}
+  m_AudioClip: {fileID: 8300000, guid: 6833c7cc40b032d418e24c9cf734bd8a, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-2992882377823214578
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-40_{-2992882377823214578}
+  m_AudioClip: {fileID: 8300000, guid: 73d5e0aad72fbe348a98c4ce463699cc, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-2500934901864662774
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-07_{-2500934901864662774}
+  m_AudioClip: {fileID: 8300000, guid: 94b317adb5050be448c2fdc9aad8787a, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-1532148031266843325
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-28_{-1532148031266843325}
+  m_AudioClip: {fileID: 8300000, guid: 332f53cc3a636bd448299218c741a235, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-1518521165090212797
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-25_{-1518521165090212797}
+  m_AudioClip: {fileID: 8300000, guid: 0e5b8a77c0ec8d6409846f47060b57e8, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-1332738490326125452
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-01_{-1332738490326125452}
+  m_AudioClip: {fileID: 8300000, guid: 166ab3b83029fc8498acf08a55930e21, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-1325262726993052407
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-39_{-1325262726993052407}
+  m_AudioClip: {fileID: 8300000, guid: eedcc519a771c154cbb61397131c2ad3, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-836486794803398356
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-11_{-836486794803398356}
+  m_AudioClip: {fileID: 8300000, guid: f989e497941929d4a97f9607daada2cb, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-705937441169045248
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-20_{-705937441169045248}
+  m_AudioClip: {fileID: 8300000, guid: aae9ebc11f4c8db47b8d5bd2301a8ce7, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-592134571005576363
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-34_{-592134571005576363}
+  m_AudioClip: {fileID: 8300000, guid: 453bb5682ab83f14c84ce7da354fe5e4, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-406644924803980689
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-31_{-406644924803980689}
+  m_AudioClip: {fileID: 8300000, guid: 71f6978d48115e049bdc781dfbe75cd3, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &968844132450303466
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-19_{968844132450303466}
+  m_AudioClip: {fileID: 8300000, guid: 822d3c5b13aeba84ba27421244c1a1c4, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &1033316849674113591
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-03_{1033316849674113591}
+  m_AudioClip: {fileID: 8300000, guid: 0ad355b22e6002549a057cf69e966f9a, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &1269297239261771147
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-37_{1269297239261771147}
+  m_AudioClip: {fileID: 8300000, guid: 7fbbe2181c00fa64fa9b9d83892f3376, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &1412263597156455740
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-23_{1412263597156455740}
+  m_AudioClip: {fileID: 8300000, guid: c3e38beedc846244a94b58f3ccc6db07, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &2110931860407569191
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-05_{2110931860407569191}
+  m_AudioClip: {fileID: 8300000, guid: cb9cf268ee6b95442b4611d9661396c9, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &4362089102014886879
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-10_{4362089102014886879}
+  m_AudioClip: {fileID: 8300000, guid: 38b9060da3b844d4385a64faf33150a7, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &4458647564132793033
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-21_{4458647564132793033}
+  m_AudioClip: {fileID: 8300000, guid: f5c8afa4ee8b4414a9ee2ee8801da1ac, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &4857504313045249778
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-02_{4857504313045249778}
+  m_AudioClip: {fileID: 8300000, guid: 431c422e29804484b83928b22382aaa7, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &4945333873233725787
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-13_{4945333873233725787}
+  m_AudioClip: {fileID: 8300000, guid: a4195f2ff3559ca46817eba83c18c9a2, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &5025695296054487984
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-15_{5025695296054487984}
+  m_AudioClip: {fileID: 8300000, guid: 675e9354d471e8141befb96d6b0c9be3, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &5286418076706975945
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-32_{5286418076706975945}
+  m_AudioClip: {fileID: 8300000, guid: f5624d67af4f46246bd3a2c1b03636d7, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &6072538370964150936
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-06_{6072538370964150936}
+  m_AudioClip: {fileID: 8300000, guid: 9b0d1c8a94f7440408d558aea49d0f37, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEffort
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: -20, y: 20}
+  m_PitchRandomizationRange: {x: -20, y: 20}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: -1332738490326125452}
+  - {fileID: 4857504313045249778}
+  - {fileID: 1033316849674113591}
+  - {fileID: -6637061599045714285}
+  - {fileID: 2110931860407569191}
+  - {fileID: 6072538370964150936}
+  - {fileID: -2500934901864662774}
+  - {fileID: -4149397391732622033}
+  - {fileID: -3763346442677901873}
+  - {fileID: 4362089102014886879}
+  - {fileID: -836486794803398356}
+  - {fileID: -9164841568332136988}
+  - {fileID: 4945333873233725787}
+  - {fileID: 6958029704749295443}
+  - {fileID: 5025695296054487984}
+  - {fileID: -6075457440927180920}
+  - {fileID: 7183447211532165662}
+  - {fileID: -4047037781133718382}
+  - {fileID: 968844132450303466}
+  - {fileID: -705937441169045248}
+  - {fileID: 4458647564132793033}
+  - {fileID: -3242662250290049211}
+  - {fileID: 1412263597156455740}
+  - {fileID: -6558245938490473529}
+  - {fileID: -1518521165090212797}
+  - {fileID: -9110664362959465957}
+  - {fileID: 8595588753689425881}
+  - {fileID: -1532148031266843325}
+  - {fileID: -8047967972486664004}
+  - {fileID: 9215600954723203651}
+  - {fileID: -406644924803980689}
+  - {fileID: 5286418076706975945}
+  - {fileID: -4464831731864473165}
+  - {fileID: -592134571005576363}
+  - {fileID: -8071493848866807668}
+  - {fileID: -4496753807358755949}
+  - {fileID: 1269297239261771147}
+  - {fileID: 8539966545220649036}
+  - {fileID: -1325262726993052407}
+  - {fileID: -2992882377823214578}
+  - {fileID: -7259254992524083171}
+  m_AvoidRepeatingLast: 27
+  m_PlaybackMode: 2
+  m_TriggerMode: 1
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 1
+  m_VolumeRandomizationEnabled: 1
+  m_PitchRandomizationEnabled: 1
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0
+--- !u!1233149941 &6958029704749295443
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-14_{6958029704749295443}
+  m_AudioClip: {fileID: 8300000, guid: 0c0ad19b2e3dae640b119a2b5a9f2262, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &7183447211532165662
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-17_{7183447211532165662}
+  m_AudioClip: {fileID: 8300000, guid: d3a8194d66c61cd4db461802bb54bcdd, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &8539966545220649036
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-38_{8539966545220649036}
+  m_AudioClip: {fileID: 8300000, guid: 57474edd4a9d02c4e9096243aa6eef51, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &8595588753689425881
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-27_{8595588753689425881}
+  m_AudioClip: {fileID: 8300000, guid: 9b8f812dbddbc8545b764e27b81f4dd0, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &9215600954723203651
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerEforts-30_{9215600954723203651}
+  m_AudioClip: {fileID: 8300000, guid: 95a5d18f71d275548a1ed4f6168cbe7b, type: 3}
+  m_Volume: 0
+  m_Enabled: 1

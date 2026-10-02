@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bebab6c91adc32b45a264cc15534a91b, type: 3}
+  m_Name: Sword 1 Color 1
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  id: 133
+  itemName: Coral Sword (Bronze)
+  description: Coral Sword of Color Bronze
+  prefab: {fileID: 5633750027152175546, guid: 8796384ae884a5e43bc5f84ab2f01681, type: 3}
+  sizeX: 1
+  sizeY: 2
+  icon: {fileID: 0}
+  tipoEquipo: 0
+  rarezaEquipo: 0
+  "Da\xF1o": 0
+  Armadura: 0
+  durabilidad: 0
+  equipable: 1

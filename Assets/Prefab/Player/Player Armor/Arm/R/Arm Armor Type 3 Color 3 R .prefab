@@ -1,0 +1,189 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3779607332144843734
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8963871248383978640}
+  - component: {fileID: 261559726512940764}
+  m_Layer: 8
+  m_Name: 'Arm Armor Type 3 Color 3 R '
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &8963871248383978640
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3779607332144843734}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5177947392605648776}
+  - {fileID: 8156161765020839884}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &261559726512940764
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3779607332144843734}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd88f924914ae824fb3d10324314bd48, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ItemDataPlayer
+  itemEquipment: {fileID: 11400000, guid: a5523f6d31e892149af8bb0d0498745f, type: 2}
+--- !u!1001 &3716453191566475174
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8963871248383978640}
+    m_Modifications:
+    - target: {fileID: -7414398355331674367, guid: 6be3aaa12297ff14fb8763dad57bbceb, type: 3}
+      propertyPath: GlobalObjectIdHash
+      value: 2777157499
+      objectReference: {fileID: 0}
+    - target: {fileID: 4801962646563655786, guid: 6be3aaa12297ff14fb8763dad57bbceb, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4801962646563655786, guid: 6be3aaa12297ff14fb8763dad57bbceb, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4801962646563655786, guid: 6be3aaa12297ff14fb8763dad57bbceb, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4801962646563655786, guid: 6be3aaa12297ff14fb8763dad57bbceb, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4801962646563655786, guid: 6be3aaa12297ff14fb8763dad57bbceb, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.00000008146034
+      objectReference: {fileID: 0}
+    - target: {fileID: 4801962646563655786, guid: 6be3aaa12297ff14fb8763dad57bbceb, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4801962646563655786, guid: 6be3aaa12297ff14fb8763dad57bbceb, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4801962646563655786, guid: 6be3aaa12297ff14fb8763dad57bbceb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4801962646563655786, guid: 6be3aaa12297ff14fb8763dad57bbceb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4801962646563655786, guid: 6be3aaa12297ff14fb8763dad57bbceb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6949387888242336537, guid: 6be3aaa12297ff14fb8763dad57bbceb, type: 3}
+      propertyPath: m_Name
+      value: Arm Armor Type 3 Color 3 R 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6949387888242336537, guid: 6be3aaa12297ff14fb8763dad57bbceb, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6be3aaa12297ff14fb8763dad57bbceb, type: 3}
+--- !u!4 &8156161765020839884 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4801962646563655786, guid: 6be3aaa12297ff14fb8763dad57bbceb, type: 3}
+  m_PrefabInstance: {fileID: 3716453191566475174}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3890364618110091763
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8963871248383978640}
+    m_Modifications:
+    - target: {fileID: -6024437947452523968, guid: 4e79e894d2803fd4aac9b0f89ff795ad, type: 3}
+      propertyPath: GlobalObjectIdHash
+      value: 2510871783
+      objectReference: {fileID: 0}
+    - target: {fileID: 5409607489439853551, guid: 4e79e894d2803fd4aac9b0f89ff795ad, type: 3}
+      propertyPath: m_Name
+      value: Arm Armor Type 3 Color 3 R
+      objectReference: {fileID: 0}
+    - target: {fileID: 5409607489439853551, guid: 4e79e894d2803fd4aac9b0f89ff795ad, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8225430794334123643, guid: 4e79e894d2803fd4aac9b0f89ff795ad, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8225430794334123643, guid: 4e79e894d2803fd4aac9b0f89ff795ad, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8225430794334123643, guid: 4e79e894d2803fd4aac9b0f89ff795ad, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8225430794334123643, guid: 4e79e894d2803fd4aac9b0f89ff795ad, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8225430794334123643, guid: 4e79e894d2803fd4aac9b0f89ff795ad, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.00000008146034
+      objectReference: {fileID: 0}
+    - target: {fileID: 8225430794334123643, guid: 4e79e894d2803fd4aac9b0f89ff795ad, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8225430794334123643, guid: 4e79e894d2803fd4aac9b0f89ff795ad, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8225430794334123643, guid: 4e79e894d2803fd4aac9b0f89ff795ad, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8225430794334123643, guid: 4e79e894d2803fd4aac9b0f89ff795ad, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8225430794334123643, guid: 4e79e894d2803fd4aac9b0f89ff795ad, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4e79e894d2803fd4aac9b0f89ff795ad, type: 3}
+--- !u!4 &5177947392605648776 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8225430794334123643, guid: 4e79e894d2803fd4aac9b0f89ff795ad, type: 3}
+  m_PrefabInstance: {fileID: 3890364618110091763}
+  m_PrefabAsset: {fileID: 0}

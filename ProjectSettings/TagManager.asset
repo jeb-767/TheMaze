@@ -2,21 +2,44 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - goal
+  - Wall
+  - Door
+  - Goal2
+  - Skeleton_Attack
+  - Golem_Attack
+  - EquipmentUI
+  - Player_Attack
+  - CinemachineCamera
+  - Entrance
+  - Item
+  - UI
+  - Enemy
+  - GhostCollider
+  - ReinforcementUI
+  - FragmentUI
+  - trap
+  - PortalBlue
+  - PortalRed
+  - Goblin_Attack
+  - MapLight
+  - MainInventoryUI
+  - ChestUI
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Floor
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Walls
+  - Interactable
+  - OwnPlayer
+  - Menu
+  - Swords
+  - NoMap
   - 
   - 
   - 
@@ -43,34 +66,4 @@ TagManager:
     locked: 0
   m_RenderingLayers:
   - Default
-  - Light Layer 1
-  - Light Layer 2
-  - Light Layer 3
-  - Light Layer 4
-  - Light Layer 5
-  - Light Layer 6
-  - Light Layer 7
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  m_MigratedRenderPipelines: []

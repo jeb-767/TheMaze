@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bebab6c91adc32b45a264cc15534a91b, type: 3}
+  m_Name: Set 3 Glove R 3
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  id: 69
+  itemName: Beast Glove R (Dark)
+  description: Part of Beast Armor Set (Dark)
+  prefab: {fileID: 7118192085356189928, guid: 520b45c261e7e56418c045a8774384b0, type: 3}
+  sizeX: 2
+  sizeY: 1
+  icon: {fileID: 0}
+  tipoEquipo: 2
+  rarezaEquipo: 0
+  "Da\xF1o": 0
+  Armadura: 0
+  durabilidad: 0
+  equipable: 1

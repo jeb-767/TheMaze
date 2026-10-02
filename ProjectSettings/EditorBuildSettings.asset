@@ -6,7 +6,29 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/Menu.unity
+    guid: 5bcda9b5967d1b8499bc58df2896aa30
+  - enabled: 1
+    path: Assets/Scenes/PrincipalScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/GameResume.unity
+    guid: 86e5fc1420166e343b8a035ad78d4a64
+  - enabled: 0
+    path: Assets/NGO_Minimal_Setup/NGO_Setup.unity
+    guid: 007589bef5f407640b03ed20550c4637
+  - enabled: 0
+    path: Assets/Scenes/New Scene.unity
+    guid: bbcc963de316e354291c95c7a53aa831
+  - enabled: 0
+    path: Assets/Scenes/MultiPlayer Test.unity
+    guid: a7a882e8d50527e40b91c33713e7c538
+  - enabled: 0
+    path: Assets/Scenes/Probe.unity
+    guid: 09f6bbff7b84b6e4bb5ae865744b069c
   m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.adaptivePerformance.basic.provider_settings: {fileID: 11400000, guid: b1de1ad06b020c34c9ef6df366b1e079, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 74a825b695b7aa841903f9b9bc4ac63d, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: a04da1ea27736004ba71e2e4741f2548, type: 2}
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}

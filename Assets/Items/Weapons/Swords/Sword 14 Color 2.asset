@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bebab6c91adc32b45a264cc15534a91b, type: 3}
+  m_Name: Sword 14 Color 2
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  id: 179
+  itemName: Echo Sword (Orange)
+  description: Echo Sword of Color Orange
+  prefab: {fileID: 3335250736670796744, guid: 70ca39117fcd2704293e85ea6177b049, type: 3}
+  sizeX: 1
+  sizeY: 2
+  icon: {fileID: 0}
+  tipoEquipo: 0
+  rarezaEquipo: 0
+  "Da\xF1o": 0
+  Armadura: 0
+  durabilidad: 0
+  equipable: 1

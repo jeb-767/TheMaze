@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-5423093422802140473
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Night Ambient 2 (Loop)_{-5423093422802140473}
+  m_AudioClip: {fileID: 8300000, guid: f5014cb6bee765148896a2729ae8f91f, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &2768735114932638663
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Night Ambient 1_{2768735114932638663}
+  m_AudioClip: {fileID: 8300000, guid: fb273957e7edc6a4fb4bc7a4449bd241, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &3501980180256954217
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Night Ambient 5 (Loop)_{3501980180256954217}
+  m_AudioClip: {fileID: 8300000, guid: ad1dff04ffad35d4392904012483407d, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BackGroundRandomMusicSelector
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: -10, y: 10}
+  m_PitchRandomizationRange: {x: -10, y: 10}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: 2768735114932638663}
+  - {fileID: -5423093422802140473}
+  - {fileID: 8012832691393349185}
+  - {fileID: 6601027581551945727}
+  - {fileID: 3501980180256954217}
+  m_AvoidRepeatingLast: 4
+  m_PlaybackMode: 2
+  m_TriggerMode: 1
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 0
+  m_VolumeRandomizationEnabled: 1
+  m_PitchRandomizationEnabled: 1
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0
+--- !u!1233149941 &6601027581551945727
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Night Ambient 4 (Loop)_{6601027581551945727}
+  m_AudioClip: {fileID: 8300000, guid: 25003d8a689eefd41a89a886c4d9cc9a, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &8012832691393349185
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Night Ambient 3 (Loop)_{8012832691393349185}
+  m_AudioClip: {fileID: 8300000, guid: 211651790ff11c34591b916de308101a, type: 3}
+  m_Volume: 0
+  m_Enabled: 1

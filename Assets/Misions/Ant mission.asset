@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eb146cf410c6ad48b078dfdb4229a27, type: 3}
+  m_Name: Ant mission
+  m_EditorClassIdentifier: Assembly-CSharp::MisionsBase
+  name: Join the family
+  description: The ant family has gotten lost inside the maze. Help them find each
+    other so that mother and child can be safe
+  reward1: 0
+  reward2: 0
+  reward3: 0
+  misionType: 2
+  misionCategory: 1
+  objectives:
+  - {fileID: 11400000, guid: fe1e2b7996df4bb45815fcde10c007b0, type: 2}

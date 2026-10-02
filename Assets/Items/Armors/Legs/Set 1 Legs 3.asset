@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bebab6c91adc32b45a264cc15534a91b, type: 3}
+  m_Name: Set 1 Legs 3
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  id: 48
+  itemName: Gladiator Pants (Blue)
+  description: Piece of Gladiator Armor Set (Blue)
+  prefab: {fileID: 731325087641431387, guid: f7538d8848f1d824eb23967073c873b6, type: 3}
+  sizeX: 2
+  sizeY: 2
+  icon: {fileID: 0}
+  tipoEquipo: 7
+  rarezaEquipo: 0
+  "Da\xF1o": 0
+  Armadura: 0
+  durabilidad: 0
+  equipable: 1
